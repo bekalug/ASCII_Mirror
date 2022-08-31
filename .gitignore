@@ -1,0 +1,19 @@
+# Project exclude paths
+/.gradle/
+/ASCII Mirror/task/build/
+/ASCII Mirror/task/out/production/classes/
+/ASCII Mirror/task/out/test/classes/
+/Topics/Exception handling/Converting and multiplying/out/
+/Topics/Exception handling/Converting and multiplying/out/production/classes/
+/Topics/Exception handling/Determine a block for handling exceptions/out/
+/Topics/Exception handling/Determine a block for handling exceptions/out/production/classes/
+/Topics/Exception handling/Theory/out/
+/Topics/Exception handling/Theory/out/production/classes/
+/Topics/Files/Are siblings/out/
+/Topics/Files/Are siblings/out/production/classes/
+/Topics/Files/Theory/out/
+/Topics/Files/Theory/out/production/classes/
+/Topics/Hierarchy of exceptions/Base class/out/
+/Topics/Hierarchy of exceptions/Base class/out/production/classes/
+/Topics/Hierarchy of exceptions/Theory/out/
+/Topics/Hierarchy of exceptions/Theory/out/production/classes/
